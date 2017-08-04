@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyPieView.iml" filepath="$PROJECT_DIR$/MyPieView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PieViewLibrary/PieViewLibrary.iml" filepath="$PROJECT_DIR$/PieViewLibrary/PieViewLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
